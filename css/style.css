@@ -1,0 +1,70 @@
+html {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  background: #fff url("/images/bg.jpg") no-repeat fixed left bottom;
+  background-size: cover;
+}
+
+.header {
+  margin: 80px;
+  margin-left: 70px;
+  width: 400px;
+}
+
+.pagename {
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.main {
+  display: block;
+  width: 400px;
+  margin-left: 60px;
+}
+
+li {
+  list-style-type: none;
+  padding: 2px;
+  content: '';
+  height: 15;
+  width: 15;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-top: 15px;
+  padding-left: 38px;
+}
+
+.icon-github {
+  background-image: url("/images/github.png");
+}
+
+.icon-twitter {
+  background-image: url("/images/twitter.png");
+}
+
+.icon-hatena-diary {
+  background-image: url("/images/hatena-diary.png");
+}
+
+.icon-booklog {
+  background-image: url("/images/booklog.png");
+}
+
+.icon-soundcloud {
+  background-image: url("/images/soundcloud.png");
+}
+
+.icon-tumblr {
+  background-image: url("/images/tumblr.png");
+}
+
+.icon-instagram {
+  background-image: url("/images/instagram.png");
+}
+
+.footer {
+  font-weight: 200;
+  width: 400px;
+  margin-left: 40px;
+  margin-top: 50px;
+}
